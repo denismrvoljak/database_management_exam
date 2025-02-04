@@ -1,4 +1,4 @@
-# Aarhus Univesity | Database Management Exam | January 2025
+# Aarhus Univesity | Database Management Exam | December 2024
 
 This repository contains my exam solutions showcasing skills in database management, SQL, API integration, and data visualization using R Shiny.
 
